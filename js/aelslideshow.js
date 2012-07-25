@@ -4,6 +4,7 @@ Drupal.behaviors.aelslideshow = {
 		
 		// Script JS pour l'affichage du slideshow
 		// Arnaud DUSSURGET pour Aeliance.com
+		// Test GITHUB 
 			
 			
 			
